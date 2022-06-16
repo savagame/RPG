@@ -1,4 +1,4 @@
-# RPG Tutorial
+# RPG
 
 ![alt text](http://devassets.com/img/assets/rpg-tutorial-assets/Banner.jpg "RPG Banner")
 
